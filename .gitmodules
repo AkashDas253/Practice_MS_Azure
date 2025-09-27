@@ -1,0 +1,3 @@
+[submodule "MS_Azure/projects/teminal_portfolio/ext_proj"]
+	path = MS_Azure/projects/teminal_portfolio/ext_proj
+	url = https://github.com/AkashDas253/Terminal_Portfolio.git
