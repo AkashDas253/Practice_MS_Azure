@@ -2,4 +2,4 @@
 
 
 ### Projects
-- [Terminal Portfolio](projects/teminal_portfolio/readme.md)
+- [Terminal Portfolio](projects/terminal_portfolio/readme.md)
